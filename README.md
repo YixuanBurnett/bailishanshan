@@ -1,5 +1,5 @@
-<b>Well Hello There!</b>
+<b>The summer of MQT.</b>
 
-</br>
-
-This is a project developed by Bailishanshan Co., which is mainly focusing on online education.
+Well, we're now conducting a project named <i>"The summer of MQT"</i>
+The whole project is based on Gamification, which could be seperated into three main parts:
+[Campus]+[Dome]+[Home].
